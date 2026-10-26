@@ -24,10 +24,10 @@ Hardware Engineer at **ScoutDI**, working on drone systems and hardware design, 
 ### 🔒 Private projects
 
 - **Project Hydra:** a weather-driven pump controller, built for Oslo kommune
-- **AI agents:** a custom personal assistant and an agentic OS for the Raspberry Pi
+- **AI agents:** a custom personal assistant and an agentic OS for the Raspberry Pi, using Claude Code, Ollama, MCP and Telegram
 - **Engineering simulation:** a browser-based CFD and FEM workbench
 - **Investment research:** multi-agent tooling for stock analysis now built into the personal AI agent
-- **Embedded builds:** ESP32 party lights, a Pi camera, and earlier Arduino and LED projects
+- **Embedded builds:** ESP32 party lights, a Pi camera, and earlier Arduino and LED projects, using ESP-NOW, ESPHome, PlatformIO and Home Assistant
 
 More on the [portfolio site](https://malshano.com): a flying wing UAV with ANSYS CFD, a bartender robot, a breathalyser, a CB750 rebuild and a surfboard coffee table.
 
