@@ -1,7 +1,7 @@
 ## Hi, I'm Malshan 👋
 
 Hardware Engineer at **ScoutDI**, working on drone systems and hardware design, based in Norway 🇳🇴.
-Curiosity drives me: I like to build things and push my own boundaries, from flying wings and electronics to furniture, films and DJ sets.
+
 
 🌐 **Portfolio:** [malshano.com](https://malshano.com) · 💼 [LinkedIn](https://www.linkedin.com/in/malshan-perera/)
 
