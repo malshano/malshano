@@ -17,10 +17,19 @@ Hardware Engineer at **ScoutDI**, working on drone systems and hardware design, 
 ### 🛠️ Public projects
 
 - [ESP Bed Presence](https://github.com/malshano/ESPBed_presense): bed occupancy sensing on an ESP32 with Home Assistant
-- [WeatherPump](https://github.com/malshano/WeatherPump): a weather-driven pump controller, built for Oslo kommune under Project Hydra
 - [SunTrigger](https://github.com/malshano/SunTrigger): a sunrise alarm clock with a custom PCB
 - [Finn-search](https://github.com/malshano/Finn-search): housing market analysis and charts in Python
 - [malshano.github.io](https://github.com/malshano/malshano.github.io): my portfolio site
+
+### 🔒 Private projects
+
+Kept in private repos, so no links:
+
+- **Project Hydra:** a weather-driven pump controller, built for Oslo kommune
+- **AI agents:** a personal assistant and an agentic OS for the Raspberry Pi
+- **Engineering simulation:** a browser-based CFD and FEM workbench
+- **Investment research:** multi-agent tooling for stock analysis
+- **Embedded builds:** ESP32 party lights, a Pi camera, and earlier Arduino and LED projects
 
 More on the [portfolio site](https://malshano.com): a flying wing UAV with ANSYS CFD, a bartender robot, a breathalyser, a CB750 rebuild and a surfboard coffee table.
 
